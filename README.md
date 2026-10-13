@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,20&height=180&section=header&text=Trishala%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CCE%20•%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Creative Terminal Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=7c3aed&strokeWidth=2&height=140&text=Trishala%20S&fontSize=38&fontColor=a855f7&fontAlignY=42&desc=B.Tech%20CCE%20•%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=68&descAlign=50" width="100%" alt="Header Terminal" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
@@ -34,7 +34,8 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Tech GIF" style="border-radius: 12px;"/>
+      <!-- Aesthetic Lofi / Anime Woman Working GIF -->
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Woman Coding GIF" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
@@ -100,15 +101,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=S-Trishala&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&hide_border=false" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Trishala&theme=tokyonight&border=7c3aed&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=a855f7" width="48%" alt="Streak Stats" />
 
-  <br/><br/>
-
-  <!-- Snake Contribution Animation -->
-  <img src="https://raw.githubusercontent.com/S-Trishala/S-Trishala/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=70&section=footer" width="100%" alt="Footer Banner" />
 </div>
