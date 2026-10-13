@@ -3,9 +3,9 @@
   <!-- Creative Dark Terminal Header -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=7c3aed&strokeWidth=2&height=140&text=Trishala%20S&fontSize=38&fontColor=a855f7&fontAlignY=42&desc=B.Tech%20CCE%20•%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=68&descAlign=50" width="100%" alt="Header Terminal" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Subtitle (Adjusted Width & Text so nothing cuts off) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=AI+%7C+IoT+%7C+Embedded+Systems;Exploring+BLE+Indoor+Localization+%26+RSSI;Biosensor-Based+Stress+Detection;Bridging+Hardware+Prototyping+%26+Intelligent+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI+%7C+IoT+%7C+Embedded+Systems;BLE+Indoor+Localization+%26+RSSI;Biosensor-Based+Stress+Detection;Hardware+Prototyping+%26+Intelligent+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,8 +21,8 @@
 ### 📌 About Me
 
 <div align="center">
-  <!-- Woman Coding / Web Development GIF -->
-  <img src="https://github.com/user-attachments/assets/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="340" alt="Woman Coding" style="border-radius: 12px; margin-bottom: 16px;" />
+  <!-- Reliable GitHub CDN Animated Coding Girl -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Patik.gif" width="280" alt="Girl Coding" style="border-radius: 12px; margin-bottom: 16px;" />
 </div>
 
 Engineering student passionate about **AI, IoT, and embedded software systems**. I focus on connecting low-level hardware components with intelligent data analysis to solve real-world problems.
