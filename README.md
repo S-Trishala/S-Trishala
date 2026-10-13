@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Creative Terminal Header Banner -->
+  <!-- Creative Dark Terminal Header -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=7c3aed&strokeWidth=2&height=140&text=Trishala%20S&fontSize=38&fontColor=a855f7&fontAlignY=42&desc=B.Tech%20CCE%20•%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=68&descAlign=50" width="100%" alt="Header Terminal" />
 
   <!-- Animated Typing Subtitle -->
@@ -20,25 +20,17 @@
 
 ### 📌 About Me
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        Engineering student passionate about <b>AI, IoT, and embedded software systems</b>. I focus on connecting low-level hardware components with intelligent data analysis to solve real-world problems.
-      </p>
-      <ul>
-        <li>🔬 <b>Research Focus:</b> Wearable biosensor stress detection (EDA, HRV, EEG) for student wellbeing.</li>
-        <li>📡 <b>Wireless Systems:</b> Bluetooth Low Energy (BLE) indoor positioning techniques & RSSI fingerprinting.</li>
-        <li>⚡ <b>Hardware Prototyping:</b> Sensor integration, microcontrollers, and firmware development using ESP32 & Arduino.</li>
-        <li>💡 <b>Core Philosophy:</b> Bridging edge computation with clean, efficient software design.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Aesthetic Lofi / Anime Woman Working GIF -->
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" alt="Woman Coding GIF" style="border-radius: 12px;"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <!-- Woman Coding / Web Development GIF -->
+  <img src="https://github.com/user-attachments/assets/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="340" alt="Woman Coding" style="border-radius: 12px; margin-bottom: 16px;" />
+</div>
+
+Engineering student passionate about **AI, IoT, and embedded software systems**. I focus on connecting low-level hardware components with intelligent data analysis to solve real-world problems.
+
+- 🔬 **Research Focus:** Wearable biosensor stress detection (EDA, HRV, EEG) for student wellbeing.
+- 📡 **Wireless Systems:** Bluetooth Low Energy (BLE) indoor positioning techniques & RSSI fingerprinting.
+- ⚡ **Hardware Prototyping:** Sensor integration, microcontrollers, and firmware development using ESP32 & Arduino.
+- 💡 **Core Philosophy:** Bridging edge computation with clean, efficient software design.
 
 ---
 
